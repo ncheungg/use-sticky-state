@@ -1,0 +1,34 @@
+{
+  "name": "use-sticky-state",
+  "version": "1.0.0",
+  "description": "Custom hook to persist React state",
+  "main": "useStickyState.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ncheungg/use-sticky-state.git"
+  },
+  "keywords": [
+    "react",
+    "localstorage state",
+    "local storage react",
+    "storage",
+    "useState",
+    "persist state",
+    "persist storage",
+    "persistant storage",
+    "persistant state",
+    "useStickyState"
+  ],
+  "author": "urvianoob",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ncheungg/use-sticky-state/issues"
+  },
+  "homepage": "https://github.com/ncheungg/use-sticky-state#readme",
+  "peerDependencies": {
+    "react": ">=16.8.0"
+  }
+}
