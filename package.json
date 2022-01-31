@@ -1,6 +1,6 @@
 {
   "name": "use-sticky-state",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Custom hook to persist React state",
   "main": "useStickyState.js",
   "scripts": {

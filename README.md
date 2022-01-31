@@ -2,6 +2,8 @@
 
 Custom hook to persist React state on browser
 
+If you're looking to persist React Native state, check out [react-native-sticky-state](https://www.npmjs.com/package/react-native-sticky-state)
+
 ## ⚙️ Installation
 
 In your React project folder, run:
